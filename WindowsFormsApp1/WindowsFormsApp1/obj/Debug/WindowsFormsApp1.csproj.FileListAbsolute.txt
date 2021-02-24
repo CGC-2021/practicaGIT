@@ -8,3 +8,13 @@ C:\Users\user\source\repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp
 C:\Users\user\source\repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\user\source\repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CGC2021_2\Source\Repos\CGC-2021\practicaGIT\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

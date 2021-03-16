@@ -20,10 +20,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-        //
+      
         private void button1_Click(object sender, EventArgs e)
         {
-            Alumno miAlumno = new Alumno();
+            Alumno miAlumno = new Alumno(); //cambios de prueba
             String miAlumnoStr, miAlumnoNotaTexto;
 
             miAlumno.Nombre = aluNombre.Text;
